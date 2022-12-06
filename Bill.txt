@@ -1,0 +1,17 @@
+*******************************************
+Welcom to C.A.S.h Travel curating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of customer :: Prashant 
+Gender :: Male
+Age :: 45
+DOB :: 08/08/1974
+Country :: USA  
+City :: NEW YORK
+Hotel ::  5 star hotel
+ TAXI services :: YES 
+ food and dine-services :: YES 
+Total number of Adults (Above 12 years of age ) :: 1
+Total number of Children (Below 12 years of age ) :: 0
+Total number of Days of the trip :: 3
+Total Amount in USD $ :: 33000.0

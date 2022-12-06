@@ -1,0 +1,128 @@
+*******************************************
+Welcom to C.A.S.h Travel cuerating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of custumer :: test2 
+Gender :: male
+Age :: 32
+DOB :: 20/3/12
+Country :: USA  
+City :: NEW YORK
+Hotel ::  def
+ TAXI services :: NO 
+ food and dine-services :: NO 
+Total Amount in USD $ :: 5000.0
+*******************************************
+Welcom to C.A.S.h Travel cuerating System 
+*******************************************
+***YOUR SPECIAL PACKAGE****
+ Name of custumer :: test3
+Gender :: male
+Age :: 21
+DOB :: 21/2/23
+Country :: UK
+City :: London
+Hotel ::  abc
+ TAXI services :: NO
+ food and dine-services :: YES 
+Total Amount in USD $ :: 6000.0
+*******************************************
+Welcom to C.A.S.h Travel cuerating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of custumer :: test4 
+Gender :: female
+Age :: 33
+DOB :: 12/2/1980
+Country :: USA  
+City :: NEW YORK
+Hotel ::  def
+ TAXI services :: NO 
+ food and dine-services :: NO 
+Total Amount in USD $ :: 5000.0
+
+*******************************************
+Welcom to C.A.S.h Travel curating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of customer :: SAM 
+Gender :: MALE
+Age :: 20
+DOB :: 20/07/2002
+Country :: USA  
+City :: LOS ANGELES
+Hotel ::  5 star hotel
+ TAXI services :: YES 
+ food and dine-services :: YES 
+Total number of Adults (Above 12 years of age ) :: 2
+Total number of Children (Below 12 years of age ) :: 1
+Total number of Days of the trip :: 5
+Total Amount in USD $ :: 150000.0
+*******************************************
+Welcom to C.A.S.h Travel curating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of customer :: Chirag Salwan 
+Gender :: male
+Age :: 20
+DOB :: 10/05/2002
+Country :: USA  
+City :: NEW YORK
+Hotel ::  3 star hotel
+ TAXI services :: NO 
+ food and dine-services :: YES 
+Total number of Adults (Above 12 years of age ) :: 2
+Total number of Children (Below 12 years of age ) :: 2
+Total number of Days of the trip :: 5
+Total Amount in USD $ :: 90000.0
+*******************************************
+Welcom to C.A.S.h Travel curating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of customer :: binit 
+Gender :: male
+Age :: 20
+DOB :: 5/09/78
+Country :: USA  
+City :: LOS ANGELES
+Hotel ::  3 star hotel
+ TAXI services :: YES 
+ food and dine-services :: YES 
+Total number of Adults (Above 12 years of age ) :: 1
+Total number of Children (Below 12 years of age ) :: 1
+Total number of Days of the trip :: 3
+Total Amount in USD $ :: 36000.0
+*******************************************
+Welcom to C.A.S.h Travel curating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of customer :: Chirag Salwan 
+Gender :: Male
+Age :: 20
+DOB :: 10/05/2002
+Country :: USA  
+City :: LOS ANGELES
+Hotel ::  5 star hotel
+ TAXI services :: NO 
+ food and dine-services :: YES 
+Total number of Adults (Above 12 years of age ) :: 2
+Total number of Children (Below 12 years of age ) :: 0
+Total number of Days of the trip :: 5
+Total Amount in USD $ :: 100000.0
+*******************************************
+Welcom to C.A.S.h Travel curating System 
+*******************************************
+***YOUR SPECIAL PACKAGE**** 
+ Name of customer :: Prashant 
+Gender :: Male
+Age :: 45
+DOB :: 08/08/1974
+Country :: USA  
+City :: NEW YORK
+Hotel ::  5 star hotel
+ TAXI services :: YES 
+ food and dine-services :: YES 
+Total number of Adults (Above 12 years of age ) :: 1
+Total number of Children (Below 12 years of age ) :: 0
+Total number of Days of the trip :: 3
+Total Amount in USD $ :: 33000.0
